@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktest"]=self["webpackChunktest"]||[]).push([[351],{4351:function(t,n,e){e.r(n),e.d(n,{default:function(){return a}});var r=e(3396);function u(t,n){return(0,r.wg)(),(0,r.iD)("div",null," 元件Right ")}var s=e(89);const c={},i=(0,s.Z)(c,[["render",u]]);var a=i}}]);
+//# sourceMappingURL=351.fd8b7a12.js.map

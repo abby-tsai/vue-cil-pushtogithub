@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktest"]=self["webpackChunktest"]||[]).push([[87],{9087:function(t,e,a){a.r(e),a.d(e,{default:function(){return o}});var s=a(3396),n=a(7139);function r(t,e,a,r,i,d){return(0,s.wg)(),(0,s.iD)("div",null,(0,n.zw)(i.dataMail),1)}var i=a(4161),d={data(){return{dataMail:""}},props:["id"],created(){console.log(this.id);const t=this.id;i.Z.get(`https://randomuser.me/api/?seed=${t}`).then((t=>{console.log(t),this.dataMail=t.data.results[0].email}))}},l=a(89);const u=(0,l.Z)(d,[["render",r]]);var o=u}}]);
+//# sourceMappingURL=87.15a005cd.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktest"]=self["webpackChunktest"]||[]).push([[364],{364:function(t,a,e){e.r(a),e.d(a,{default:function(){return d}});var r=e(3396),s=e(7139);function n(t,a,e,n,u,i){return(0,r.wg)(),(0,r.iD)("div",null,(0,s.zw)(u.dataMail),1)}var u=e(4161),i={data(){return{dataMail:""}},created(){console.log(this.$route.params);const t=this.$route.params;u.Z.get(`https://randomuser.me/api/?seed=${t}`).then((t=>{console.log(t),this.dataMail=t.data.results[0].email}))}},l=e(89);const o=(0,l.Z)(i,[["render",n]]);var d=o}}]);
+//# sourceMappingURL=364.4bb7b792.js.map
